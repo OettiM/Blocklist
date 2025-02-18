@@ -3,3 +3,4 @@
 ||youtuber.googleapis.com^
 ||adsrvr.org^
 ||smartvads.com^
+||youtubei.googleapis.com^
