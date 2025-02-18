@@ -1,0 +1,5 @@
+||s.youtube.com^
+||redirector.googlevideo.com^
+||youtuber.googleapis.com^
+||adsrvr.org^
+||smartvads.com^
